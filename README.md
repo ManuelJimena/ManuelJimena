@@ -5,6 +5,8 @@
 
 - 📧 How to reach me **Manuel.jimena29@gmail.com**
 
+- 🌎 I currently live in **Arganda del Rey, Madrid, Spain**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
