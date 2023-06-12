@@ -3,7 +3,7 @@
 
 - 📚 I’m currently learning **JavaScript, Java, HTML5, CSS3, Android, Adobe Photoshop, Sony Vegas**
 - 📧 How to reach me **Manuel.jimena29@gmail.com**
-- 🌎 I currently live in **Arganda del Rey, Madrid, Spain**
+- 🌎 I am living in **Arganda del Rey, Madrid, Spain**
 
 <p align="left">
 </p>
