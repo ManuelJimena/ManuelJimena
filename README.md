@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋🏻, I'm Manuel</h1>
-<h3 align="center">A passionate developer from Spain</h3>
+<h1 align="center"><img src="https://i.imgur.com/L1gu59X.png">
+<h2 align="center">Hi 👋🏻, I'm Manuel</h1>
 
 - 📚 I’m currently learning **JavaScript, Java, HTML5, CSS3, Android, Adobe Photoshop, Sony Vegas**
-
 - 📧 How to reach me **Manuel.jimena29@gmail.com**
-
 - 🌎 I currently live in **Arganda del Rey, Madrid, Spain**
 
 <h3 align="left">Connect with me:</h3>
