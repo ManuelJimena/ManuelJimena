@@ -16,13 +16,22 @@ Hi !<img src="https://user-images.githubusercontent.com/18350557/176309783-07859
   
   
   
-  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats: </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<p align="center">
-<a href="https://github.com/ArisGuimera">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ManuelJimena&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ManuelJimena&layout=compact&langs_count=8&theme=algolia"/>
+<div align="center">
+
+<a href="https://github.com/ManuelJimena/">
+  <img src="https://github-readme-stats.vercel.app/api?username=ManuelJimena&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManuelJimena&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="ManuelJimena"/>
+
 </a>
-</p>
+</div>
+
+<br>
+<br>
+<br>
+
+-----
+
   
