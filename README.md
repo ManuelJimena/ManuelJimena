@@ -2,7 +2,7 @@
   
 Hi !<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Manuel<h1 align>
   
-  ## About me:
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> ## About me:
 
 * 📚 I’m currently learning **JavaScript, Java, HTML5, CSS3, Android, Adobe Photoshop, Sony Vegas**
 * 📧 How to reach me **Manuel.jimena29@gmail.com**
