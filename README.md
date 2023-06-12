@@ -1,5 +1,6 @@
-<h1 align="center"><img src="https://i.imgur.com/L1gu59X.png"><h1 align>
-<h1 align="center">Hi !<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Manuel<h1 align>
+<h1 align="center"><img src="https://i.imgur.com/L1gu59X.png">
+  
+Hi !<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Manuel<h1 align>
 
 * 📚 I’m currently learning **JavaScript, Java, HTML5, CSS3, Android, Adobe Photoshop, Sony Vegas**
 * 📧 How to reach me **Manuel.jimena29@gmail.com**
