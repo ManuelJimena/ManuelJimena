@@ -1,13 +1,14 @@
 <h1 align="center"><img src="https://i.imgur.com/MTZc8rW.png">
   
 Hi !<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Manuel<h1 align>
+<br>
   
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture><b>About me:</b>
 
 * 📚 I’m currently learning **JavaScript, Java, HTML5, CSS3, Android, Adobe Photoshop, Sony Vegas**
 * 📧 How to reach me **Manuel.jimena29@gmail.com**
 * 🌎 I am living in **Arganda del Rey, Madrid, Spain**
-  
+<br>
   
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills:</b>
