@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1709079042/Portfolio/DALL_E_2024-02-28_00.17.37_-_Refine_the_LinkedIn_banner_design_to_be_even_more_minimalist_and_elegant_with_a_dark_blue_background_and_very_subtle_purple_waves_for_added_sophistic_lnggwk.png">
+<h1 align="center"><img src="https://res.cloudinary.com/dhjmt9vvq/image/upload/v1709157600/Portfolio/BannerGitHub_ojt7jv.png">
   
 Hi !<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"> My name is Manuel<h1 align>
 
